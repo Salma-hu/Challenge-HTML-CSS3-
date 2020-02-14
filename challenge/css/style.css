@@ -1,0 +1,175 @@
+body{
+    font-family: 'Barlow Condensed', sans-serif;  
+    
+}
+
+
+.intro-div{
+    float: left;
+    width: 50%;
+    position: relative;
+    
+}
+
+
+#logo{
+    margin-left: 25%;
+    margin-top: 10%;
+    
+}
+
+.paragraph-section{
+  
+    margin-left: 25%;
+    margin-top: 20%;
+}
+
+.paragraph-section h1{
+    
+}
+
+
+
+
+.paragraph-section  span{
+    
+    
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border: 10px solid black;
+    border-radius: 50%;
+    
+    
+
+
+
+}
+
+.paragraph-section #first-paragraph{
+    display: inline;
+    color: #929191;
+    margin: 1em;
+
+    
+    
+}
+
+
+.paragraph-section #last-paragraph{
+    
+    width: 40%;
+    color: rgb(124, 122, 122);
+     
+}
+
+
+
+.button-section{
+   
+    font-size: 1em;
+    
+}
+
+
+
+
+.button-section Button {
+
+  background-color: #ff5d5d; /* Green */
+  font-weight: bolder;
+  border: none;
+  color: white;
+  padding: 1em 1em;
+  text-align: center;
+  display: inline-block;
+  border-radius: 0.5em;
+  margin-top: 2em;
+  margin-left: 25%;
+  
+}
+
+.button-section a{
+    color:#929191;
+    margin-left: 4%;
+    text-decoration: none;
+    
+}
+
+/* The first section art divs */
+
+
+.art-div{
+   width: 50%;
+   float: right;
+   height: 80%;
+   padding: 0;
+   position: relative;
+   
+
+   
+}
+
+.art-div img{
+
+    width: 90%; 
+    height: auto;
+    margin-left: 4%;
+    margin-top: 10%;
+}
+
+.art-div ul{
+    margin-top: 8%;
+    margin-bottom: 10%;
+    
+}
+
+.art-div ul li{
+
+    display: inline;
+    color: black;
+    font-size: 16px;
+    padding: 35px 35px;
+    margin:10px 10px 10px 1px;
+    text-transform: uppercase;
+    
+    
+}
+
+.art-div ul li a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+   
+} 
+
+.art-div ul li a:hover{
+    background-color: lightblue;
+}
+
+
+.art-div .dotted-circle{
+    
+    
+    
+}
+
+.art-div .login-grey{
+    color:#929191;
+    margin-right: 5px;
+    
+}
+
+
+
+/* the second section background gris*/
+.art-background{
+    background-color:rgb(237, 239, 241);
+    width: 48%;
+    height: 50%;
+    position: absolute;
+    top: 0%;
+    right: 1%;
+    border-bottom-left-radius: 6em;
+   
+}
